@@ -1,6 +1,6 @@
 # Loadstring
 ```lua
-loadstring(game:HttpGet(''))()
+loadstring(game:HttpGet('https://github.com/SazhaTuyt/Universla-Shift-Lock-script-Roblox/blob/main/main.lua'))()
 ```
 
 # Shift Lock
